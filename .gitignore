@@ -1,1 +1,6 @@
 *.txt
+Thembs.db
+.DS_Store
+
+#Logs
+*.log
